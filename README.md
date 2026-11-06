@@ -7,9 +7,13 @@
   <br />
 
   <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=500&size=22&duration=3500&pause=1200&color=BFD9FF&center=true&vCenter=true&width=520&lines=%E2%9C%A6+GAMERCROSS+%E2%9C%A6;%EB%94%94%EC%9E%90%EC%9D%B8%EA%B3%BC+%EC%BD%94%EB%93%9C+%EC%82%AC%EC%9D%B4%EB%A5%BC+%EC%97%AC%ED%96%89%ED%95%98%EB%8A%94+%EC%A4%91;%EC%B2%9C%EC%B2%9C%ED%9E%88%2C+%EC%98%A4%EB%9E%98+%EA%B8%B0%EC%96%B5%EC%97%90+%EB%82%A8%EB%8A%94+%EA%B2%83%EC%9D%84" alt="typing intro" />
-</div>
 
-<br />
+  <img src="./assets/divider.svg" width="100%" />
+
+  <img src="./assets/quote.svg" width="100%" alt="천천히 걸어도 괜찮아. 지나온 길마다 별이 남으니까." />
+
+  <img src="./assets/divider.svg" width="100%" />
+</div>
 
 <h3 align="center">✦ Spells I use ✦</h3>
 
@@ -19,29 +23,39 @@
 <img src="https://skillicons.dev/icons?i=ai,ps,ae,pr,xd&theme=dark" />
 
 **Code**<br />
-<img src="https://skillicons.dev/icons?i=html,css,js,py&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,cpp,py&theme=dark" />
 
 **Tools**<br />
-<img src="https://skillicons.dev/icons?i=notion,vscode&theme=dark" />
+<img src="./assets/tools.svg" alt="Notion, VS Code, Claude, Gemini, Antigravity" />
+
+<img src="./assets/divider.svg" width="100%" />
 
 </div>
-
-<br />
 
 <h3 align="center">✦ Journey ✦</h3>
+
 <div align="center">
   <img height="180" src="https://streak-stats.demolab.com?user=gamercross&hide_border=true&background=0D1B3E&ring=3D7BFF&fire=BFD9FF&currStreakLabel=BFD9FF&sideLabels=E8F0FF&currStreakNum=E8F0FF&sideNums=E8F0FF&dates=8FA8D8&stroke=1E3A7A" />
+
+  <br /><br />
+
+  <img src="https://raw.githubusercontent.com/gamercross/gamercross/output/snake-night.svg" width="100%" alt="contribution snake" />
+
+  <img src="./assets/divider.svg" width="100%" />
 </div>
 
-<br />
-
 <h3 align="center">✦ Contact ✦</h3>
+
 <div align="center">
   <img src="https://img.shields.io/badge/Discord-0D1B3E?style=for-the-badge&logo=discord&logoColor=BFD9FF" />
   <img src="https://img.shields.io/badge/Instagram-0D1B3E?style=for-the-badge&logo=instagram&logoColor=BFD9FF" />
   <img src="https://img.shields.io/badge/KakaoTalk-0D1B3E?style=for-the-badge&logo=kakaotalk&logoColor=BFD9FF" />
   <img src="https://img.shields.io/badge/LinkedIn-0D1B3E?style=for-the-badge&logoColor=BFD9FF" />
   <img src="https://img.shields.io/badge/Reddit-0D1B3E?style=for-the-badge&logo=reddit&logoColor=BFD9FF" />
+
+  <br /><br />
+
+  <img src="https://komarev.com/ghpvc/?username=gamercross&label=TRAVELERS&color=3D7BFF&style=flat-square" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3D7BFF,100:0D1B3E&height=140&section=footer" width="100%" />
