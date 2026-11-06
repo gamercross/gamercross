@@ -10,7 +10,7 @@
 
   <img src="./assets/divider.svg" width="100%" />
 
-  <img src="./assets/quote.svg" width="100%" alt="Walk slowly — every road you've crossed leaves a star behind." />
+  <img src="./assets/quote-en.svg" width="100%" alt="Walk slowly — every road you've crossed leaves a star behind." />
 
   <img src="./assets/divider.svg" width="100%" />
 </div>
