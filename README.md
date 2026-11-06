@@ -1,4 +1,4 @@
-<!-- 밤하늘 테마 팔레트: 남색 0D1B3E · 파랑 3D7BFF · 얼음빛 BFD9FF · 별빛 E8F0FF -->
+<!-- night-sky palette: navy 0D1B3E · blue 3D7BFF · ice BFD9FF · starlight E8F0FF -->
 
 <div align="center">
   <img src="./assets/header.gif" width="100%" alt="night sky header" />
@@ -6,11 +6,11 @@
 
   <br />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=500&size=22&duration=3500&pause=1200&color=BFD9FF&center=true&vCenter=true&width=520&lines=%E2%9C%A6+GAMERCROSS+%E2%9C%A6;%EB%94%94%EC%9E%90%EC%9D%B8%EA%B3%BC+%EC%BD%94%EB%93%9C+%EC%82%AC%EC%9D%B4%EB%A5%BC+%EC%97%AC%ED%96%89%ED%95%98%EB%8A%94+%EC%A4%91;%EC%B2%9C%EC%B2%9C%ED%9E%88%2C+%EC%98%A4%EB%9E%98+%EA%B8%B0%EC%96%B5%EC%97%90+%EB%82%A8%EB%8A%94+%EA%B2%83%EC%9D%84" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=26&duration=3500&pause=1200&color=BFD9FF&center=true&vCenter=true&width=560&height=50&lines=%E2%9C%A6+GAMERCROSS+%E2%9C%A6;Wandering+between+design+and+code;Making+things+that+linger%2C+slowly" alt="typing intro" />
 
   <img src="./assets/divider.svg" width="100%" />
 
-  <img src="./assets/quote.svg" width="100%" alt="천천히 걸어도 괜찮아. 지나온 길마다 별이 남으니까." />
+  <img src="./assets/quote.svg" width="100%" alt="Walk slowly — every road you've crossed leaves a star behind." />
 
   <img src="./assets/divider.svg" width="100%" />
 </div>
