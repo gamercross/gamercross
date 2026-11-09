@@ -46,17 +46,18 @@ I'm not in a hurry. I'd rather make things that linger.
 <img src="./assets/rpg/chapter-iv.svg" width="100%" alt="Chapter IV — Relics" />
 
 <a href="https://github.com/gamercross/my-setup-proj"><img src="./assets/rpg/relic-my-setup-proj.svg" width="49%" alt="Dashboard OS — my-setup-proj" /></a>
-<a href="https://github.com/gamercross/archi-board"><img src="./assets/rpg/relic-archi-board.svg" width="49%" alt="Archi Board — archi-board" /></a>
-<a href="https://github.com/gamercross/data-ai-assistant"><img src="./assets/rpg/relic-data-ai-assistant.svg" width="49%" alt="Data-Aware Familiar — data-ai-assistant" /></a>
-<a href="https://github.com/gamercross/Final-Proj-Result"><img src="./assets/rpg/relic-final-proj-result.svg" width="49%" alt="Trial of Five Paths — Final-Proj-Result" /></a>
-<a href="https://github.com/gamercross/coding-marathon"><img src="./assets/rpg/relic-coding-marathon.svg" width="49%" alt="Marathon Codex — coding-marathon" /></a>
+<a href="https://github.com/gamercross/codyssey"><img src="./assets/rpg/relic-codyssey.svg" width="49%" alt="Codyssey Chronicle — codyssey" /></a>
 <a href="https://github.com/gamercross/design-story"><img src="./assets/rpg/relic-design-story.svg" width="49%" alt="Design Story — design-story" /></a>
+<a href="https://github.com/gamercross/data-ai-assistant"><img src="./assets/rpg/relic-data-ai-assistant.svg" width="49%" alt="Data-Aware Familiar — data-ai-assistant" /></a>
+<a href="https://github.com/gamercross/career-roadmap"><img src="./assets/rpg/relic-career-roadmap.svg" width="49%" alt="Wanderer's Map — career-roadmap" /></a>
+<a href="https://github.com/gamercross/gamercross.github.io"><img src="./assets/rpg/relic-gamercross-github-io.svg" width="49%" alt="Home Port — gamercross.github.io" /></a>
 
 <sub>✦ SEE THEM IN ACTION ✦ &nbsp;
 <a href="https://gamercross.github.io/my-setup-proj-story/">Dashboard OS story</a> ·
-<a href="https://gamercross.github.io/archi-board/">Archi Board</a> ·
+<a href="https://gamercross.github.io/design-story/">Design Story</a> ·
 <a href="https://data-ai-assistant-flame.vercel.app">Data-Aware Familiar</a> ·
-<a href="https://gamercross.github.io/design-story/">Design Story</a></sub>
+<a href="https://gamercross.github.io/career-roadmap/">Wanderer's Map</a> ·
+<a href="https://gamercross.github.io/">Home Port</a></sub>
 
 <img src="./assets/rpg/chapter-v.svg" width="100%" alt="Chapter V — The Trail" />
 
