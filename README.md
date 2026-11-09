@@ -43,7 +43,22 @@ I'm not in a hurry. I'd rather make things that linger.
 
 <img src="./assets/rpg/quests.svg" width="100%" alt="Quest board" />
 
-<img src="./assets/rpg/chapter-iv.svg" width="100%" alt="Chapter IV — The Trail" />
+<img src="./assets/rpg/chapter-iv.svg" width="100%" alt="Chapter IV — Relics" />
+
+<a href="https://github.com/gamercross/my-setup-proj"><img src="./assets/rpg/relic-my-setup-proj.svg" width="49%" alt="Dashboard OS — my-setup-proj" /></a>
+<a href="https://github.com/gamercross/archi-board"><img src="./assets/rpg/relic-archi-board.svg" width="49%" alt="Archi Board — archi-board" /></a>
+<a href="https://github.com/gamercross/data-ai-assistant"><img src="./assets/rpg/relic-data-ai-assistant.svg" width="49%" alt="Data-Aware Familiar — data-ai-assistant" /></a>
+<a href="https://github.com/gamercross/Final-Proj-Result"><img src="./assets/rpg/relic-final-proj-result.svg" width="49%" alt="Trial of Five Paths — Final-Proj-Result" /></a>
+<a href="https://github.com/gamercross/coding-marathon"><img src="./assets/rpg/relic-coding-marathon.svg" width="49%" alt="Marathon Codex — coding-marathon" /></a>
+<a href="https://github.com/gamercross/design-story"><img src="./assets/rpg/relic-design-story.svg" width="49%" alt="Design Story — design-story" /></a>
+
+<sub>✦ SEE THEM IN ACTION ✦ &nbsp;
+<a href="https://gamercross.github.io/my-setup-proj-story/">Dashboard OS story</a> ·
+<a href="https://gamercross.github.io/archi-board/">Archi Board</a> ·
+<a href="https://data-ai-assistant-flame.vercel.app">Data-Aware Familiar</a> ·
+<a href="https://gamercross.github.io/design-story/">Design Story</a></sub>
+
+<img src="./assets/rpg/chapter-v.svg" width="100%" alt="Chapter V — The Trail" />
 
 <img src="./assets/header.gif" width="100%" alt="night sky journey" />
 
@@ -51,7 +66,7 @@ I'm not in a hurry. I'd rather make things that linger.
 
 <img src="https://raw.githubusercontent.com/gamercross/gamercross/output/snake-night.svg" width="100%" alt="contribution snake" />
 
-<img src="./assets/rpg/chapter-v.svg" width="100%" alt="Chapter V — Send a Familiar" />
+<img src="./assets/rpg/chapter-vi.svg" width="100%" alt="Chapter VI — Send a Familiar" />
 
 <img src="https://img.shields.io/badge/Discord-0D1B3E?style=for-the-badge&logo=discord&logoColor=BFD9FF" />
 <img src="https://img.shields.io/badge/Instagram-0D1B3E?style=for-the-badge&logo=instagram&logoColor=BFD9FF" />
